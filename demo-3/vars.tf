@@ -1,7 +1,7 @@
-variable "AWS_ACCESS_KEY" {}
-variable "AWS_SECRET_KEY" {}
+variable "AWS_ACCESS_KEY" {AKIAJA5GDVDQFRLO2EVA}
+variable "AWS_SECRET_KEY" {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}
 variable "AWS_REGION" {
-  default = "eu-west-1"
+  default = "us-west-2"
 }
 variable "AMIS" {
   type = "map"
